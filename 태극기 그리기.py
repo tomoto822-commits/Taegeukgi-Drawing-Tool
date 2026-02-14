@@ -81,7 +81,6 @@ def draw_taegukgi():
                     t.end_fill()
                     t.penup(); t.forward(p_l + gap); t.pendown()
 
-    # 실행
     draw_taegeuk()
     draw_gwae("건", 180 - angle) 
     draw_gwae("곤", -angle)       
@@ -90,4 +89,5 @@ def draw_taegukgi():
     screen.mainloop()
 
 draw_taegukgi()
+
 
