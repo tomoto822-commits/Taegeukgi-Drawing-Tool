@@ -6,7 +6,7 @@
 5. 태극기를 구경한다
 
 ## 사용영상
-https://youtu.be/BjnhFrT6a7M?si=WnSx4UWY3nSDkT-y
+https://www.youtube.com/watch?v=A_RN-2PH6OE
 
 태극기 비율은 틀릴수있습니다
 나중에 다른 국기도 만들어볼 생각입니다
